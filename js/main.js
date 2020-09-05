@@ -40,7 +40,8 @@ function toggleMenu()
 function randomtext() 
 {
   var randomtxt = [
-      'Luigi Shrek Lantern!',
+    'You poggin poggers!1 When will you learn? WHEN WILL YOU LEARN THAT YOUR KAPPAS HAVE PEPEHANDS?!?! - Funny haha quote by GregZhel (he pretty epic ngl): https://soundcloud.com/gregzhel',
+     /*'Luigi Shrek Lantern!',
       '(Not made out of cake)',
       'Gordon Ramsay, the Spiderman of worlds!',
       'Kurva Vonat!',
@@ -62,7 +63,7 @@ function randomtext()
       'The human equivalent of the Windows 3.1 hot dog stand color scheme!',
       'No, STOP! My brain can barely form coherent thoughts already!',
       'Duck Duck Go? More like Fuck fuck go!',
-      'You poggin poggers!1 When will you learn? WHEN WILL YOU LEARN THAT YOUR KAPPAS HAVE PEPEHANDS?!?!',
+      
       'P' + 'E'.italics() + 'Rs' + 'ONa' + 'L'.bold() + 'It' + 'Y'.italics(),
       'Never going to hell, but always on the way!',
       'I see die in your future',
@@ -71,7 +72,7 @@ function randomtext()
       'Go fuck!',
       'Making bathub meth!',
       'HELP THE YOUTUBE JEWS ARE COMING FOR ME!',
-      'anime broccoli hair nigga penis!'
+      'anime broccoli hair nigga penis!'*/
     ];
 
   return randomtxt[Math.floor((Math.random() * randomtxt.length))];
