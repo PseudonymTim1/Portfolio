@@ -72,7 +72,8 @@ function randomtext()
       'Free tortillas!',
       'Go fuck!',
       'Making bathub meth!',
-      'HELP THE YOUTUBE JEWS ARE COMING FOR ME!'
+      'HELP THE YOUTUBE JEWS ARE COMING FOR ME!',
+      "ARDUOUS DUEL, PERMANENT HUMAN *WHITE NOISE*"
     ];
 
   return randomtxt[Math.floor((Math.random() * randomtxt.length))];
